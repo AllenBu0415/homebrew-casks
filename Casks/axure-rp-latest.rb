@@ -29,5 +29,4 @@ cask "axure-rp-latest" do
     "~/Library/Preferences/com.axure.AxureRP#*.plist",
     "~/Library/Saved Application State/com.axure.AxureRP#*.savedState",
   ]
-  end
 end
