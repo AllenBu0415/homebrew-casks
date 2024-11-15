@@ -4,7 +4,7 @@ cask "axure-rp-arm" do
 
   url "https://d3uii9pxdigrx1.cloudfront.net/AxureRP-Setup-arm64.dmg",
       verified: "axure.cachefly.net/"
-  name "Axure RP"
+  name "Axure RP ARM"
   desc "Planning and prototyping tool for developers"
   homepage "https://www.axure.com/"
 
