@@ -1,4 +1,4 @@
-cask "axure-rp-arm" do
+cask "axure-rp-latest" do
   version "11"
   sha256 :no_check  # 由于下载链接可能会变化，这里使用 :no_check 来避免校验失败
 
