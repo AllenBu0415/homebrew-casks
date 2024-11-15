@@ -1,4 +1,4 @@
-cask "axure-rp" do
+cask "axure-rp-arm" do
   version "11.0.0.4118"
   sha256 "e567e196fa677bc98a8672bcaee7bc0a93c556527e26e441f990b118f2ea31f9"
 
