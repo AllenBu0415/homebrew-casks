@@ -1,4 +1,4 @@
-cask "ogdesign-eagle" do
+cask "ogdesign-eagle@4.0" do
   arch arm: "arm64", intel: "x64"
 
   version "4.0,6"
