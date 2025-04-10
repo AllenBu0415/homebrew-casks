@@ -37,7 +37,4 @@ class Flutter < Formula
   test do
     system "#{bin}/flutter", "--version"
   end
-
-  # 定义哪些文件或目录将在卸载时被移除
-  zap trash: "~/.flutter"
 end
