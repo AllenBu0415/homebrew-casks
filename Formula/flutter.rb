@@ -1,7 +1,7 @@
 class Flutter < Formula
   desc "UI toolkit for building applications for mobile, web and desktop"
   homepage "https://flutter.dev/"
-  
+
   version "3.29.2"
 
   if Hardware::CPU.arm?
